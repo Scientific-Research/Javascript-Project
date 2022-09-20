@@ -1,2 +1,2 @@
 # Javascript-Project
-Javascript-Project - A project using Javascript programming language
+Javascript-Project - A Weather App project using API in Javascript
