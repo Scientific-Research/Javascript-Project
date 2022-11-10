@@ -1,2 +1,1 @@
-# Javascript-Project
-Javascript-Project - A Weather App project using API in Javascript
+# Javascript Project - Flight Information using API
